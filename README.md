@@ -15,6 +15,7 @@
 
 ![weather](https://github.com/zeldinha00/API-OpenWeather/assets/14182590/aa99a344-bd0b-4c1b-aac1-6d0a14c3f2c0)
 
+- [Site](https://zeldinha00.github.io/API-OpenWeather/) - API | openweathermap
 
 ## 🎯 API em HTML | CSS | JAVASCRIPT
 

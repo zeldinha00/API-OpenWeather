@@ -1,0 +1,17 @@
+/* Cores */
+@import "./colors/colors.css";
+
+/* Global Reset*/
+@import "./global/global.css";
+
+/* Container */
+@import "./container/container.css";
+
+/* Form */
+@import "./form/form.css";
+
+/* Infos */
+@import "./infos/infos.css";
+
+/* Temp */
+@import "./temp/temp.css";

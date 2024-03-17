@@ -1,0 +1,15 @@
+/* Cores */
+
+:root {
+    --cor-bg: linear-gradient(#3b82f6, #4a7dff);
+    --cor-bg-temp: linear-gradient(#5a7cdc, #606dde);
+    --cor-bg-card: #f0f8ff;
+    --cor-bg-button: #bdbdbd;
+    --cor-primary: #372f3f;
+    --cor-secondary: #fff;
+
+    --cor-max-temp: #7f1d1d;
+    --cor-min-temp: #0284c7;
+    --cor-humidity-temp: #0ea5e9;
+    --cor-wind-temp: #7c3aeb;
+}

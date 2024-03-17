@@ -1,0 +1,6 @@
+#container {
+    background-color: var(--cor-bg-card);
+    border-radius: 20px;
+    padding: 18px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
